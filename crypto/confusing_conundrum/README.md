@@ -1,4 +1,4 @@
-# Cofusing Conundrum - Cryptography
+# Confusing Conundrum - Cryptography
 ## Information about the challenge
 - CTF Name : NexZero 2024
 - CTF Organizers : Nexus Club
