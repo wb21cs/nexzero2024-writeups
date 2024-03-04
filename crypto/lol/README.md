@@ -1,4 +1,4 @@
-# Base64 - Cryptography
+# LOL - Cryptography
 ## Information about the challenge
 - CTF Name : NexZero 2024
 - CTF Organizers : Nexus Club
