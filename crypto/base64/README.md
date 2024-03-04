@@ -5,7 +5,7 @@
 - Category : Cryptography
 - Author : sami_mst
 - Points : 50
-- Solves : 10/15
+- Solves : 15/15
 - Onsite Players : 15
 - Flag Format : nexus{flag}
 - Date : 29/02/2024
